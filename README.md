@@ -1,13 +1,12 @@
 # 🙋🏽‍♂️ Hello World, I'm Alex Hoskins!
 - 🌉  I currently reside in the San Francisco Bay Area.
-- 🛠  I’m currently working with an awesome non-profit called <a href="https://www.underdogdevs.org/">Underdog Devs</a> as a backend engineer.
-- 📕  I’m a few weeks from graduating from the best coding bootcamp around, Bloom Institute of Technology.
-- 💬  Let's talk about BlockChain, Technology, AI, Web Development or The Office.
+- 🛠  I’m working with an awesome non-profit called <a href="https://www.underdogdevs.org/">Underdog Devs</a> as a backend engineer.
+- 📕  I’m a few weeks away from graduating from the best coding bootcamp around, Bloom Institute of Technology.
+- 💬  Let's talk about BlockChain, Technology, AI, Web Development or The Office (a.k.a. "Best Show Ever").
 
 ### CONTACT ME:
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex-Hoskins)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-hoskins-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexrhoskins@gmail.com)
+
+## 👉🏽  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-hoskins-dev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexrhoskins@gmail.com) 👈🏽
 
 ### FRONTEND: 
 
