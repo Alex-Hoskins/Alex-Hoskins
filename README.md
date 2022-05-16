@@ -2,19 +2,22 @@
 
 <!-- # Software Engineer   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()   [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() -->
 
+# Software Engineer
+
+With over ten years of experience working with people as a mentor, leader, and manager, I have found that helping people never gets old. My passion is to create innovative solutions to complex problems one code-snippet at a time. Visit <a href='https://alexrhoskins.com/'>my website</a> to learn more!
+
+### Technologies
 <div>
-  <h2>Software Engineer</h2>
   <img alt="React Shield" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Node Shield" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="JavaScript Shield" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-<br/>
-With over ten years of experience working with people as a mentor, leader, and manager, I have found that helping people never gets old. My passion is to create innovative solutions to complex problems one code-snippet at a time. Visit <a href='https://alexrhoskins.com/'>my website</a> to learn more!
+### Contact
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-hoskins-dev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexrhoskins@gmail.com)
 
-## Contact
 
-##  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-hoskins-dev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexrhoskins@gmail.com)
+
 <!-- 
 ### MY STATS: 
 
