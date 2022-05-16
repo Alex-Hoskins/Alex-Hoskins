@@ -1,7 +1,6 @@
 # 🙋🏽‍♂️ Hello World, I'm Alex Hoskins!
 - 🌉  I currently reside in the San Francisco Bay Area.
 - 🛠  Most recently, I worked with a non-profit called <a href="https://www.underdogdevs.org/">Underdog Devs</a> as a software engineer.
-- 📕  I just graduated from the best coding bootcamp around, Bloom Institute of Technology.
 - 💬  Let's talk about BlockChain, Technology, AI, Web Development, Harry Potter or The Office (a.k.a. "Best Show Ever").
 
 <div>
