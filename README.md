@@ -1,4 +1,5 @@
-# 🙋🏽‍♂️ Hello World, I'm Alex Hoskins!
+<img src="https://lh3.googleusercontent.com/DwlkcIwJgpoLgrWh7ZL7lseYdIbuN3cVe2sTTBRH4dAyqsNY5MF_D9IWNaUKsC3_eM1HW8SQofVH_rPeMcm8_fmbsdJB1GzTASAsBBtpkT2VV1Zljij5mQ46sUhkRIrwbxK8ySjDCg=w1000-h250-p-k" />
+
 - 🌉  I currently reside in the San Francisco Bay Area.
 - 🛠  Most recently, I worked with a non-profit called <a href="https://www.underdogdevs.org/">Underdog Devs</a> as a software engineer.
 - 💬  Let's talk about BlockChain, Technology, AI, Web Development, Harry Potter or The Office (a.k.a. "Best Show Ever").
