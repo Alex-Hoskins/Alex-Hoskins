@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/DwlkcIwJgpoLgrWh7ZL7lseYdIbuN3cVe2sTTBRH4dAyqsNY5MF_D9IWNaUKsC3_eM1HW8SQofVH_rPeMcm8_fmbsdJB1GzTASAsBBtpkT2VV1Zljij5mQ46sUhkRIrwbxK8ySjDCg=w1000-h200-p-k" />
+<img src="https://lh3.googleusercontent.com/sk3zdjy6AFjskYeJHw67E18D0EcaoyCFC2MbUm4tPKKRxh0EvK2NmAGO95dt3QcMDGDwdtEF9RvsXIkCmrzMGc8VNH0O1c3s1r2pDk7cQAMFB8C5mlpcQQLxxLHEYwkGLWm5rkZvuA=w1000" />
 
 - 🌉  I currently reside in the San Francisco Bay Area.
 - 🛠  Most recently, I worked with a non-profit called <a href="https://www.underdogdevs.org/">Underdog Devs</a> as a software engineer.
