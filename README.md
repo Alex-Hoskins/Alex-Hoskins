@@ -1,7 +1,5 @@
 <img src="https://lh3.googleusercontent.com/sk3zdjy6AFjskYeJHw67E18D0EcaoyCFC2MbUm4tPKKRxh0EvK2NmAGO95dt3QcMDGDwdtEF9RvsXIkCmrzMGc8VNH0O1c3s1r2pDk7cQAMFB8C5mlpcQQLxxLHEYwkGLWm5rkZvuA=w1000" />
 
-<!-- # Software Engineer   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()   [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() -->
-
 # Software Engineer
 
 With over ten years of experience working with people as a mentor, leader, and manager, I have found that helping people never gets old. My passion is to create innovative solutions to complex problems one code-snippet at a time. Visit <a href='https://alexrhoskins.com/'>my website</a> to learn more!
