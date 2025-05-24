@@ -1,24 +1,47 @@
-<img src="https://lh3.googleusercontent.com/sk3zdjy6AFjskYeJHw67E18D0EcaoyCFC2MbUm4tPKKRxh0EvK2NmAGO95dt3QcMDGDwdtEF9RvsXIkCmrzMGc8VNH0O1c3s1r2pDk7cQAMFB8C5mlpcQQLxxLHEYwkGLWm5rkZvuA=w1000" />
+# 👋 Hey, I’m Alex Hoskins
 
-# Software Engineer
+I’m a **Software Engineer** who loves building tools that make life easier, more connected, and just a little more fun. With over a decade of experience mentoring, leading, and solving problems—first as a people leader, now as a developer—I bring empathy and clarity to every line of code I write.
 
-With over ten years of experience working with people as a mentor, leader, and manager, I have found that helping people never gets old. My passion is to create innovative solutions to complex problems one code-snippet at a time. Visit <a href='https://alexrhoskins.com/'>my website</a> to learn more!
+Right now, I’m especially focused on:
+- 🚀 Launching **[LevelUp: AI Tools for LinkedIn](https://chromewebstore.google.com/detail/levelup-ai-tools-for-link/ioomjennaofikknjjjbnnofkaloknbel)** – an AI-powered extension that helps job seekers personalize outreach and stand out
+- 🎥 Creating real, relatable content on [my YouTube channel](https://www.youtube.com/@healthyandnuts) about fitness, family life, and tech
+- 🧑‍💻 Growing my skills in systems design, frontend performance, and user-first engineering
 
-### Technologies
+Visit [alexrhoskins.com](https://alexrhoskins.com) to learn more about me and my work.
+
+---
+
+## 🛠️ Tech I Use Regularly
+
 <div>
-  <img alt="React Shield" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Node Shield" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="JavaScript Shield" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </div>
 
-### Contact
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-hoskins-dev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexrhoskins@gmail.com)
+---
 
-<!-- https://dev.to/envoy_/150-badges-for-github-pnk
- -->
-<!-- 
-### MY STATS: 
+## 🔨 What I'm Working On
 
-<img alt="Alex-Hoskins's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Hoskins&hide=smalltalk&theme=buefy&layout=compact&show_icons=true&hide_border=false&line_height=20&title_color=3D3D3D&icon_color=1b93c9&show_owner=true" width="400" />
-<img alt="Alex-Hoskins GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alex-Hoskins&show_icons=true&hide_border=false&line_height=20&title_color=3D3D3D&icon_color=1b93c9&show_owner=true" width="400"/> -->
+- 🧠 Building **AI-powered productivity tools** like [LevelUp: AI Tools for LinkedIn](https://chromewebstore.google.com/detail/levelup-ai-tools-for-link/ioomjennaofikknjjjbnnofkaloknbel), a Chrome extension that helps job seekers create personalized outreach at scale
+- 💼 Recently worked as a **Forward Deployed Engineer at Bluecore**, collaborating directly with enterprise clients to deliver data-driven eCommerce solutions using JavaScript, Python, and SQL
+- 🎥 Creating content on [YouTube @healthyandnuts](https://www.youtube.com/@healthyandnuts) that blends fitness and family life with humor and honesty
+
+
+---
+
+## 📬 Let’s Connect
+
+I’m always open to chatting about collaboration, career opportunities, or shared interests.
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-hoskins/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexrhoskins@gmail.com)
+
+---
+
+> “Helping people never gets old.” — Whether through code, content, or connection, that’s the mission.
+
 
