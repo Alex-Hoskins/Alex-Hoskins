@@ -89,10 +89,17 @@ Lately I'm most interested in **AI-augmented tools for everyday workflows** — 
 
 ### 📊 GitHub at a glance
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex-Hoskins&theme=default" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alex-Hoskins&theme=default" height="165"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex-Hoskins&theme=default"/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alex-Hoskins&theme=default"/>
+    </td>
+  </tr>
+</table>
+
 
 ### 🎥 Beyond the code
 
